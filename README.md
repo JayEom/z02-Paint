@@ -10,4 +10,4 @@ https://nomadcoders.co/javascript-for-beginners-2/lobby 과정
 - 캔버스 이미지 다운로드
 
 # Try it out
-https://jayeom.github.io/z02-Paint/
+https://jayeom-fitz.github.io/z02-Paint/
